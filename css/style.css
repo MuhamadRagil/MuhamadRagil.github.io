@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-image: url(../img/bg.jpg);
+}
+
+#projects {
+  background-color: #a3c0ee;
+}
+
+#testimonial {
+  background-color: #a3c0ee;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+div.satu {
+  background-image: url(../img/prjoects/2.jpg);
+}
